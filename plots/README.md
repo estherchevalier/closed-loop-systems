@@ -1,4 +1,4 @@
-## Plots
+## plots
 
 Plots created during hackathon:
-* 
+*
