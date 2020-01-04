@@ -1,3 +1,3 @@
 ## docs
 
-Documentation containing theoretical background and guide for the final source code given to the jury. 
+Documentation containing theoretical background and guide for the final source code. 
